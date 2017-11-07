@@ -1,0 +1,8 @@
+{
+  "name": "ionic3-image-handling",
+  "app_id": "9f861fc7",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
